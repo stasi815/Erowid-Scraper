@@ -15,16 +15,14 @@
 https://stasi815.github.io/Journey-Wise/
 
 ## Anticipated Challenges
-**Learning the basics of webscraping.**
-**Learning to use the data that I collect in a way that makes it available for my API.**
-**Populating my API with the data.**
+**I expect to be challenged by learning the basics of webscraping, learning to use the data that I collect in a way that makes it available for my API, and then populating my API with the data. I am still building my proficiency in Python and expect to be challenged by the language as well.**
 
 ## Skateboard
 **Webscrape the Erowid website, retrieve the relevant information for each plant and collect the data.**
 ## Bike
 **Translate the data into JSON.**
 ## Car
-**Find more websites with information I want, repeat the process used for Erowid and ddd the data into my API**
+**Find more websites with information I want, repeat the process used for Erowid and add the data into my API**
 
 ## Personal Achievement Goals:
 
