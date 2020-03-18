@@ -1,0 +1,2 @@
+# Erowid Data Scraper
+![Image description](https://ctl.s6img.com/society6/img/Oaps15RihTtXiDrMbXnJcYkyy_0/w_1500/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/69b008243b1e46cd8263d2f0dfbf3799/~~/psychedelic-plants-prints.jpg)
